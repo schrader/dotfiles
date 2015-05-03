@@ -1,6 +1,6 @@
 [user]
-	name = Julian Schrader
-	email = mail@schrader.io
+	name = Julian J. Schrader
+	email = mail@jjs.de
 [alias]
 	co = checkout
 [color]
@@ -8,7 +8,7 @@
 	status = auto
 	branch = auto
 [core]
-	excludesfile = /Users/julianschrader/.gitignore
+	excludesfile = /Users/jjs/.gitignore
 	editor = mate -w
 [apply]
 	whitespace = nowarn
